@@ -15,4 +15,5 @@ I wanted to get some experience using streamlit before I began implementng
 my option pricing project. I have been aware of the streamlit library for
 roughly a year now, and have made no attempts to become familiar with it.
 However very recently I seem to have learned how to code, so I'd like to 
-play with it a bit.
+play with it a bit. Also taught myself a bit of latex in the process.
+note: Latex in streamlit is a bit odd, but its not too difficult to use
